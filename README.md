@@ -2,7 +2,7 @@
 
 > This script will work until a LinkedIn employee finds out 😅  
 >  
-> It was just an experimental script created to test how their game works.
+> It was just an experimental script created to automate their game.
 
 ## Disclaimer ⚠️
 This project is purely for educational and experimental purposes.  
